@@ -70,7 +70,7 @@ st.markdown("---")
 CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
    
      labels[0]: {
-       "texts": ["치킨맛있다", "파스타멋있다", "피자배고프다"],
+       "texts": ["치킨맛있다"],
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
      },
