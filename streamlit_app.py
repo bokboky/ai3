@@ -74,6 +74,21 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
        "images": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fquasarzone.com%2Fbbs%2Fqf_pcgame%2Fviews%2F39442&psig=AOvVaw1kHvjQ64XHP4s4-JsA38HL&ust=1762925168930000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPCh74yu6ZADFQAAAAAdAAAAABAL"],
        "videos": ["https://youtube.com/shorts/zDtGuFHA3CE?si=Fp8ppL7CW-a8cMRV"]
      },
+
+
+abels[1]: {
+       "texts": ["파스타배고프다"],
+       "images": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fquasarzone.com%2Fbbs%2Fqf_pcgame%2Fviews%2F39442&psig=AOvVaw1kHvjQ64XHP4s4-JsA38HL&ust=1762925168930000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPCh74yu6ZADFQAAAAAdAAAAABAL"],
+       "videos": ["https://youtube.com/shorts/zDtGuFHA3CE?si=Fp8ppL7CW-a8cMRV"]
+
+
+    abels[2]: {
+       "texts": ["피자멋있다"],
+       "images": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fquasarzone.com%2Fbbs%2Fqf_pcgame%2Fviews%2F39442&psig=AOvVaw1kHvjQ64XHP4s4-JsA38HL&ust=1762925168930000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPCh74yu6ZADFQAAAAAdAAAAABAL"],
+       "videos": ["https://youtube.com/shorts/zDtGuFHA3CE?si=Fp8ppL7CW-a8cMRV"]
+     },
+    
+     },
 }
 
 # ======================
