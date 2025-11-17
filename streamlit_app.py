@@ -80,7 +80,7 @@ abels[1]: {
        "texts": ["파스타배고프다"],
        "images": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fpikminbloom.com%2Fko%2Fnews%2Fapril25-pastadecor&psig=AOvVaw2JXaMK5lKc-SJqvDXhrJUu&ust=1763424518397000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMiRwsLy95ADFQAAAAAdAAAAABAE"],
        "videos": ["https://youtube.com/shorts/LuNbalaottU?si=MGnEbFkXmXPJzc0C"]
-
+     },
 
     abels[2]: {
        "texts": ["피자먹고싶다"],
