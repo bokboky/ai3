@@ -78,14 +78,14 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
 abels[1]: {
        "texts": ["파스타배고프다"],
-       "images": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fquasarzone.com%2Fbbs%2Fqf_pcgame%2Fviews%2F39442&psig=AOvVaw1kHvjQ64XHP4s4-JsA38HL&ust=1762925168930000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPCh74yu6ZADFQAAAAAdAAAAABAL"],
-       "videos": ["https://youtube.com/shorts/zDtGuFHA3CE?si=Fp8ppL7CW-a8cMRV"]
+       "images": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fpikminbloom.com%2Fko%2Fnews%2Fapril25-pastadecor&psig=AOvVaw2JXaMK5lKc-SJqvDXhrJUu&ust=1763424518397000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMiRwsLy95ADFQAAAAAdAAAAABAE"],
+       "videos": ["https://youtube.com/shorts/ZL_v6tQSREw?si=WO0k3V8Ly-Vs7ofN"]
 
 
     abels[2]: {
-       "texts": ["피자멋있다"],
-       "images": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fquasarzone.com%2Fbbs%2Fqf_pcgame%2Fviews%2F39442&psig=AOvVaw1kHvjQ64XHP4s4-JsA38HL&ust=1762925168930000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPCh74yu6ZADFQAAAAAdAAAAABAL"],
-       "videos": ["https://youtube.com/shorts/zDtGuFHA3CE?si=Fp8ppL7CW-a8cMRV"]
+       "texts": ["피자먹고싶다"],
+       "images": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fhypebeast.kr%2F2023%2F7%2Fjapans-dominos-pizza-launches-pickle-pizza-info&psig=AOvVaw32OZalya8Pchbr2ZOhznTN&ust=1763424707889000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIifj5Dz95ADFQAAAAAdAAAAABAE"],
+       "videos": ["https://youtube.com/shorts/1C2ihl8rjHA?si=o_iL8v_EZUKUjbOV"]
      },
     
      },
