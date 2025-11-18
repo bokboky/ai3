@@ -76,13 +76,13 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
      },
 
 
-abels[1]: {
+labels[1]: {
        "texts": ["파스타배고프다"],
        "images": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fpikminbloom.com%2Fko%2Fnews%2Fapril25-pastadecor&psig=AOvVaw2JXaMK5lKc-SJqvDXhrJUu&ust=1763424518397000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMiRwsLy95ADFQAAAAAdAAAAABAE"],
        "videos": ["https://youtube.com/shorts/LuNbalaottU?si=MGnEbFkXmXPJzc0C"]
      },
 
-    abels[2]: {
+    labels[2]: {
        "texts": ["피자먹고싶다"],
        "images": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fhypebeast.kr%2F2023%2F7%2Fjapans-dominos-pizza-launches-pickle-pizza-info&psig=AOvVaw32OZalya8Pchbr2ZOhznTN&ust=1763424707889000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIifj5Dz95ADFQAAAAAdAAAAABAE"],
        "videos": ["https://youtube.com/shorts/1C2ihl8rjHA?si=o_iL8v_EZUKUjbOV"]
